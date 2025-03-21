@@ -11,8 +11,12 @@
    ```
 3. Activate the theme in WordPress Admin Panel.
 4. Import _Custom_WP_theme_-_DB_.sql
-5. Flush permalinks settings.
-6. GOOD LUCK...
+5. Custom API End Point
+   ```bash
+   /wp-json/custom/v1/projects/
+   ```
+7. Flush permalinks settings.
+8. GOOD LUCK...
  
 
    
